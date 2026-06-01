@@ -1,4 +1,4 @@
-# Divyansh Sharma — AI Engineer & Full-Stack Developer
+# Divyansh Sharma - AI Engineer & Full-Stack Developer
 
 > Building AI Agents, Automation Systems & Production-Ready SaaS Platforms
 

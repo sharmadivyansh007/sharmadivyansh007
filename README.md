@@ -1,158 +1,89 @@
-# 👋 Hi, I'm Divyansh Sharma
+# Divyansh Sharma — AI Engineer & Full-Stack Developer
 
-### 🚀 Senior AI Engineer • Full-Stack Developer • Automation Architect
+> Building AI Agents, Automation Systems & Production-Ready SaaS Platforms
 
-Building AI agents, autonomous workflows, SaaS platforms, and scalable systems that solve real business problems.
-
----
-
-## 🧠 What I Build
-
-### 🤖 AI Agents & Automation
-
-* Multi-agent AI systems
-* Autonomous workflows
-* AI customer support agents
-* Lead qualification & scoring systems
-* Business process automation
-* RAG applications
-* Knowledge base chatbots
-
-### 🌐 AI-Powered Applications
-
-* GPT-powered SaaS platforms
-* AI dashboards & analytics
-* Document processing systems
-* AI copilots & assistants
-* Custom LLM integrations
-* AI research tools
-
-### 💻 Full-Stack Development
-
-* SaaS platforms
-* MVP development
-* CRM systems
-* Admin dashboards
-* Internal business tools
-* Marketplaces
-* Subscription platforms
-
-### ⚙️ Backend & Infrastructure
-
-* API architecture
-* Authentication systems
-* Database design
-* Cloud deployments
-* Scalable microservices
-* Performance optimization
+AI Developer specializing in AI Agents, RAG systems, workflow automation, LLM applications, and scalable backend architecture.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
 
-### 🤖 Artificial Intelligence
-
-OpenAI • Claude • Gemini • DeepSeek • LangChain • LangGraph • CrewAI • RAG • AI Agents • Vector Databases
-
-### 🎨 Frontend
-
-React • Next.js • TypeScript • JavaScript • Tailwind CSS • ShadCN UI
-
-### ⚡ Backend
-
-Node.js • Express.js • NestJS • Python • FastAPI • REST APIs • WebSockets
-
-### 🗄️ Databases
-
-PostgreSQL • MongoDB • Redis • Supabase • Pinecone • Weaviate
-
-### ☁️ Cloud & DevOps
-
-AWS • Docker • Cloudflare • Nginx • GitHub Actions • CI/CD • VPS
+| Area | What I Deliver |
+|--------|--------|
+| AI Agents | Multi-agent systems, autonomous workflows, AI assistants |
+| AI Automation | Business automation, lead qualification, process optimization |
+| AI SaaS | GPT-powered platforms, dashboards, admin panels |
+| Backend & APIs | Node.js, Python, REST APIs, authentication systems |
+| RAG Systems | Knowledge bases, document search, AI chat systems |
+| Cloud & Deployments | Docker, VPS, Cloudflare, CI/CD pipelines |
 
 ---
 
-## 🚀 Featured Solutions
+## Tech Stack
 
-### 🤖 AI Sales Assistant
+**AI:** OpenAI · Claude · Gemini · LangChain · LangGraph · RAG · Vector Databases
 
-Automated lead qualification, CRM enrichment, and intelligent follow-up workflows.
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS
 
-### 📚 Enterprise Knowledge Agent
+**Backend:** Node.js · Express.js · Python · FastAPI · REST APIs
 
-Internal AI assistant trained on company documentation and SOPs.
+**Database:** PostgreSQL · MongoDB · Redis · Supabase
 
-### 🎧 AI Customer Support Platform
-
-Automated ticket handling and customer engagement powered by LLMs.
-
-### ✍️ AI Content Automation System
-
-End-to-end content creation, review, and publishing pipelines.
-
-### 📊 AI Operations Dashboard
-
-Real-time monitoring, analytics, and AI-driven decision support.
+**Cloud:** Docker · VPS · Cloudflare · GitHub Actions
 
 ---
 
-## 🎯 What Clients Hire Me For
+## Experience Highlights
 
-✅ AI Agent Development
+⭐ Built AI-powered automation systems reducing manual workflows
 
-✅ GPT-Powered SaaS Applications
+⭐ Developed production-ready SaaS applications
 
-✅ Workflow Automation
+⭐ Created scalable backend architectures
 
-✅ Full-Stack Product Development
+⭐ Built AI chatbots, assistants & RAG platforms
 
-✅ MVP Development
+⭐ Delivered MVPs from idea to launch
 
-✅ API Development
-
-✅ Cloud Infrastructure
-
-✅ Technical Consulting
+⭐ Designed systems focused on growth & scalability
 
 ---
 
-## 🔥 Current Focus
+## Current Focus
 
-* 🤖 Autonomous AI Agents
-* 🧠 Multi-Agent Systems
-* 📚 RAG Architectures
-* ⚡ Enterprise AI Automation
-* 🚀 AI SaaS Platforms
-* 🔄 Workflow Orchestration
-
----
-
-## 📈 Development Philosophy
-
-✔ Build for scale
-
-✔ Build for reliability
-
-✔ Build for maintainability
-
-✔ Build for real users
-
-✔ Build for business outcomes
+`AI Agents`
+`Multi-Agent Systems`
+`RAG Architectures`
+`Workflow Automation`
+`AI SaaS`
+`LLM Applications`
 
 ---
 
-## 🤝 Let's Connect
+## Work With Me
 
-📧 Email: [your@email.com](mailto:your@email.com)
+I help startups and businesses:
 
-💼 LinkedIn: your-linkedin
+✔ Build AI products
 
-🌐 Portfolio: your-portfolio
+✔ Launch MVPs faster
 
-🐙 GitHub: your-github
+✔ Automate repetitive workflows
 
-💬 Discord: your-discord
+✔ Create scalable SaaS platforms
+
+✔ Design reliable backend systems
 
 ---
 
-> 🚀 Building AI products that create measurable business value — not just impressive demos.
+## Connect
+
+💼 LinkedIn
+
+🌐 Portfolio
+
+📩 Open to Freelance Projects, AI Consulting & Startup Collaborations
+
+---
+
+> Building AI products that solve real business problems.

@@ -94,3 +94,7 @@ I help startups and businesses:
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge" />
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmadivyansh007&show_icons=true&theme=dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharmadivyansh007&theme=github-dark)

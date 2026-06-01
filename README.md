@@ -87,3 +87,10 @@ I help startups and businesses:
 ---
 
 > Building AI products that solve real business problems.
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge" />
+</p>
